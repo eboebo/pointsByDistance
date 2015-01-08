@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PointsByDistance/MainViewController.swift"
+            timestampString = "442440158.09351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PointsByDistance.MainViewController.currentPointItem.getter : PointsByDistance.PointItem"
+                  moduleName = "PointsByDistance"
+                  urlString = "file:///Users/elenaboyd/Documents/WholeFoods/PointsByDistance/PointsByDistance/MainViewController.swift"
+                  timestampString = "442438650.389759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PointsByDistance.MainViewController.init (PointsByDistance.MainViewController.Type)(style : C.UITableViewStyle) -&gt; PointsByDistance.MainViewController"
+                  moduleName = "PointsByDistance"
+                  urlString = "file:///Users/elenaboyd/Documents/WholeFoods/PointsByDistance/PointsByDistance/MainViewController.swift"
+                  timestampString = "442438650.389972"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PointsByDistance.MainViewController.init (PointsByDistance.MainViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; PointsByDistance.MainViewController"
+                  moduleName = "PointsByDistance"
+                  urlString = "file:///Users/elenaboyd/Documents/WholeFoods/PointsByDistance/PointsByDistance/MainViewController.swift"
+                  timestampString = "442438650.39014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "662">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PointsByDistance.MainViewController.init (PointsByDistance.MainViewController.Type)() -&gt; PointsByDistance.MainViewController"
+                  moduleName = "PointsByDistance"
+                  urlString = "file:///Users/elenaboyd/Documents/WholeFoods/PointsByDistance/PointsByDistance/MainViewController.swift"
+                  timestampString = "442438650.390311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "549">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PointsByDistance.MainViewController.init (PointsByDistance.MainViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; PointsByDistance.MainViewController"
+                  moduleName = "PointsByDistance"
+                  urlString = "file:///Users/elenaboyd/Documents/WholeFoods/PointsByDistance/PointsByDistance/MainViewController.swift"
+                  timestampString = "442438650.390563"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PointsByDistance/MainViewController.swift"
+            timestampString = "442440158.09351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
